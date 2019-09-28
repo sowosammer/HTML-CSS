@@ -36,6 +36,9 @@ Inputs -> Submitbutton ist wichtig, sendet die Daten ab. wenn kein submit button
 
 w3schools.com : mit live editor über try your self
     mit css, html, bootstrap, javascript, ..
+    
+## gute Icons verwenden Tel,...
+fontawesome.com 
 
 ## CSS
 

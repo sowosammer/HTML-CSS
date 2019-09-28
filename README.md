@@ -31,3 +31,24 @@ Viewport definieren, festlegen der breite.., und scale für die initiale darstel
    
 ## Beachten
 Inputs -> Submitbutton ist wichtig, sendet die Daten ab. wenn kein submit button vorhanden ist-> erster wird als dieser angenommen.
+
+## Gute Seiten:
+
+w3schools.com : mit live editor über try your self
+    mit css, html, bootstrap, javascript, ..
+
+## CSS
+
+###CSS einbinden:
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+
+
+## Schriftgrößen CSS:
+Abhängig von Dokument (rm), parent (em), viewport (vh)
+
+## Selectoren:
+
+* -> ganze Seite
+h1 -> Tag-Selector
+.classname -> Klassenselector (festgelegt im html mit class="flsjfk")
+#idname -> elementselector (id ist eindeutig, festgelegt im html mit id="meineId")
